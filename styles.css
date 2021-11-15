@@ -1,0 +1,15 @@
+@media screen and (min-width:768px) {
+    #navbar{
+        display: flex;
+         flex-direction: column; 
+        
+        /* flex-wrap: wrap-reverse; */
+    
+    }
+}
+
+nav{
+position: absolute;
+left: 0;
+top: 0;
+}
