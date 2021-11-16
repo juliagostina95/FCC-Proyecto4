@@ -1,15 +1,14 @@
-@media screen and (min-width:768px) {
-    #navbar{
-        display: flex;
-         flex-direction: column; 
-        
-        /* flex-wrap: wrap-reverse; */
-    
-    }
-}
+@media screen and (min-width:624px) {
+   
+      #navbar{
+          position: absolute;
 
-nav{
-position: absolute;
-left: 0;
-top: 0;
-}
+      }
+      
+      .nav-link{
+         display: flex;   
+      } 
+  
+  }
+  
+
